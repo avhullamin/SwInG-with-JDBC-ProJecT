@@ -29,7 +29,7 @@ public class LoginFrame extends JFrame {
         gbc.fill = GridBagConstraints.HORIZONTAL;
 
         // Title
-        JLabel titleLabel = new JLabel("🏬 Craigslist Clone");
+        JLabel titleLabel = new JLabel("🏬 Open Market Listings");
         titleLabel.setFont(new Font("Arial", Font.BOLD, 20));
         gbc.gridx = 0;
         gbc.gridy = 0;
